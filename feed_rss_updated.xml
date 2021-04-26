@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 23 Apr 2021 12:54:22 -0000</pubDate>
-    <lastBuildDate>Fri, 23 Apr 2021 12:54:22 -0000</lastBuildDate>
+    <pubDate>Mon, 26 Apr 2021 04:38:18 -0000</pubDate>
+    <lastBuildDate>Mon, 26 Apr 2021 04:38:18 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Vectipy, un serveur minimaliste de tuiles vectorielles (MVT)</title>
+      
+      
+        
+      <author>Jean-Baptiste DESBAS</author>
+        
+      
+      <description>Présentation de vectipy, un serveur léger de tuiles vectorielles (MVT)</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</link>
+      <pubDate>Mon, 26 Apr 2021 04:29:53 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/vectipy/vectipy_logo.png" type="image/png" length="3028" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 23 avril 2021</title>
@@ -728,20 +746,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
       <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-02-08/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 15 février 2013</title>
-      
-      
-      <description>&lt;h1&gt;Revue de presse du 15 février 2013&lt;/h1&gt;
-&lt;p&gt;On ne change pas une équipe qui gagne, cette semaine encore du Leaflet et un plugin pour Django et D3.js. Ensuite nous verrons une interface graphique pour les analyses spatiales avec R et une nouvelle librairie cartographique dénommée Squares développée sous Typescript. Dans notre boulot, on a toujours besoin d&#39;icônes et pour rêver un peu il nous faut des affiches au mur, ce que propose OpenStreetPosters.&lt;/p&gt;
-&lt;p&gt;Pour finir on vous invite à revoir le décollage ...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-02-15/</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-02-15/</guid>
       
     </item>
     

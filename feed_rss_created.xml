@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 23 Apr 2021 12:54:22 -0000</pubDate>
-    <lastBuildDate>Fri, 23 Apr 2021 12:54:22 -0000</lastBuildDate>
+    <pubDate>Mon, 26 Apr 2021 04:38:18 -0000</pubDate>
+    <lastBuildDate>Mon, 26 Apr 2021 04:38:18 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Vectipy, un serveur minimaliste de tuiles vectorielles (MVT)</title>
+      
+      
+        
+      <author>Jean-Baptiste DESBAS</author>
+        
+      
+      <description>Présentation de vectipy, un serveur léger de tuiles vectorielles (MVT)</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</link>
+      <pubDate>Mon, 26 Apr 2021 15:00:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/vectipy/vectipy_logo.png" type="image/png" length="3028" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 23 avril 2021</title>
@@ -737,24 +755,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" length="48052" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 4 septembre 2020</title>
-      
-      
-        
-      <author>Geotribu</author>
-        
-      
-      <description>GeoRDP du 4 Septembre 2020 : présentation de tegola, un serveur de tuiles vectorielles en Go, Leaflet 1.7, nid d&#39;abeilles avec Plotly, un logo pour GeoPandas, avalanche de ressources sur QGIS, Deck GL en C++, sortie du n°128 de M@ppemonde, outils de dessin dans LizMap, données de la canopée mondiale, cartographie artistique et dynamique de l&#39;évolution du glacier du Rhône, D3 en version 6</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</link>
-      <pubDate>Fri, 04 Sep 2020 14:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/logos-icones/framework_os.jpeg" type="image/jpeg" length="49908" />
       
     </item>
     
