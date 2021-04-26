@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Mon, 26 Apr 2021 04:38:18 -0000</pubDate>
-    <lastBuildDate>Mon, 26 Apr 2021 04:38:18 -0000</lastBuildDate>
+    <pubDate>Mon, 26 Apr 2021 10:02:17 -0000</pubDate>
+    <lastBuildDate>Mon, 26 Apr 2021 10:02:17 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Faire une carte en ligne (tuiles vectorielles + WebGL) 100% libre</title>
+      
+      
+        
+      <author>Boris MERICSKAY</author>
+        
+      
+      <description>En réaction au changement de licence de MapBox, de nombreuses initiatives ont émergé, dont une très intéressante : MapLibre. Voici un tutoriel complet pour l&#39;utiliser pour créer une carte web interactive 100% libre, en continuant à utiliser les fonctionnalités de MapboxGL sans dépendance aux jetons d&#39;accès.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/</link>
+      <pubDate>Mon, 26 Apr 2021 09:44:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/carte-ligne-libre/finalisation.JPG" type="image/jpeg" length="166086" />
+      
+    </item>
     
     <item>
       <title>Vectipy, un serveur minimaliste de tuiles vectorielles (MVT)</title>
@@ -732,20 +750,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
       <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-02-02/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 8 février 2013</title>
-      
-      
-      <description>&lt;h1&gt;Revue de presse du 8 février 2013&lt;/h1&gt;
-&lt;p&gt;Cela fait quelque temps que nous avions un peu de mal à tenir nos dead line, mais cette semaine nous sommes à l&#39;heure ! D&#39;autant plus que cette revue de presse est particulièrement riche.&lt;/p&gt;
-&lt;p&gt;Vous en avez l&#39;habitude, nous commençons tout d&#39;abord par les sorties de la semaine avec une entrée remarquée des ETL. Continuons ensuite avec cette formidable bibliothèque qu&#39;est Orfeo Toolbox sans oublier, quelques news de MySQL qui intègre enfin les spécifications de ...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-02-08/</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-02-08/</guid>
       
     </item>
     
