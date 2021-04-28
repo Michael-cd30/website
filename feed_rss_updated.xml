@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Mon, 26 Apr 2021 10:02:17 -0000</pubDate>
-    <lastBuildDate>Mon, 26 Apr 2021 10:02:17 -0000</lastBuildDate>
+    <pubDate>Wed, 28 Apr 2021 13:31:58 -0000</pubDate>
+    <lastBuildDate>Wed, 28 Apr 2021 13:31:58 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -33,6 +33,24 @@
     
     
     <item>
+      <title>Vectipy, un serveur minimaliste de tuiles vectorielles (MVT)</title>
+      
+      
+        
+      <author>Jean-Baptiste DESBAS</author>
+        
+      
+      <description>Présentation de vectipy, un serveur léger de tuiles vectorielles (MVT)</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</link>
+      <pubDate>Wed, 28 Apr 2021 13:24:26 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/vectipy/vectipy_logo.png" type="image/png" length="3028" />
+      
+    </item>
+    
+    <item>
       <title>Faire une carte en ligne (tuiles vectorielles + WebGL) 100% libre</title>
       
       
@@ -47,24 +65,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/carte-ligne-libre/finalisation.JPG" type="image/jpeg" length="166086" />
-      
-    </item>
-    
-    <item>
-      <title>Vectipy, un serveur minimaliste de tuiles vectorielles (MVT)</title>
-      
-      
-        
-      <author>Jean-Baptiste DESBAS</author>
-        
-      
-      <description>Présentation de vectipy, un serveur léger de tuiles vectorielles (MVT)</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</link>
-      <pubDate>Mon, 26 Apr 2021 04:29:53 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/vectipy/vectipy_logo.png" type="image/png" length="3028" />
       
     </item>
     
