@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Sat, 01 May 2021 09:49:19 -0000</pubDate>
-    <lastBuildDate>Sat, 01 May 2021 09:49:19 -0000</lastBuildDate>
+    <pubDate>Sat, 01 May 2021 10:05:58 -0000</pubDate>
+    <lastBuildDate>Sat, 01 May 2021 10:05:58 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Python - Configuration sur Windows et outillage</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Configuration et outillage de base pour développer en Python en 2020, avec un focus sur le travail sous Windows.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
+      <pubDate>Sat, 01 May 2021 10:05:13 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/python_windows/python_windows_installer_path_length.jpg" type="image/jpeg" length="69519" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 9 janvier 2015</title>
@@ -734,26 +752,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
       <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-01-11/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 28 janvier 2013</title>
-      
-      
-        
-      <author>GeoTribu</author>
-        
-      
-      <description>&lt;h1&gt;Revue de presse de la semaine du 28 janvier 2013&lt;/h1&gt;
-&lt;p&gt;:calendar: Date de publication initiale : 02 février 2013&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; GeoRDP | antipodes | BNF | CartoDB | GDAL | iD | Landsat | MapBox | OpenStreetMap | openwebglobe | overpassapi | Street View | WebGL&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;News.png&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
-&lt;p&gt;L&#39;hiver ou l&#39;été - c&#39;est selon où l&#39;on se trouve sur Terre, vérifiez donc avec la webcarte des &lt;a href=&#34;#news42&#34;&gt;antipodes&lt;/a&gt; pour voir de l&#39;autre ...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-02-02/</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-02-02/</guid>
       
     </item>
     
