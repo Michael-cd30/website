@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Wed, 28 Apr 2021 13:31:58 -0000</pubDate>
-    <lastBuildDate>Wed, 28 Apr 2021 13:31:58 -0000</lastBuildDate>
+    <pubDate>Sat, 01 May 2021 09:49:19 -0000</pubDate>
+    <lastBuildDate>Sat, 01 May 2021 09:49:19 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Revue de presse du 9 janvier 2015</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 9 janvier 2015 : une revue de presse endeuillée, à l&#39;instar de toutes les personnes attachées à la liberté de la presse et à l&#39;échange non violent.</description>
+      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-01-02/</link>
+      <pubDate>Sat, 01 May 2021 09:48:42 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-01-02/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/Charlie-320x225.jpg" type="image/jpeg" length="24308" />
+      
+    </item>
     
     <item>
       <title>Vectipy, un serveur minimaliste de tuiles vectorielles (MVT)</title>
@@ -323,20 +341,6 @@ I...&lt;/p&gt;</description>
       <pubDate>Sat, 27 Mar 2021 16:37:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-03-21/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 9 janvier 2015</title>
-      
-      
-      <description>&lt;h1&gt;Revue de presse du 9 janvier 2015&lt;/h1&gt;
-&lt;p&gt;C&#39;est une semaine très particulière pour l&#39;équipe de Geotribu, c&#39;est la première revue de presse de l&#39;année, celle où théoriquement nous vous souhaitons nos voeux de bonne année! Mais cette année, elle prend une teinte particulière après les bouleversants événements qui ont frappé en son coeur Charlie Hebdo... Ce sera donc une revue de presse sobre que nous vous proposons cette semaine.&lt;/p&gt;
-&lt;p&gt;![](https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/Charl...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-01-02/</link>
-      <pubDate>Sat, 27 Mar 2021 16:37:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-01-02/</guid>
       
     </item>
     
