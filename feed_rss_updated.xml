@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Wed, 05 May 2021 14:22:36 -0000</pubDate>
-    <lastBuildDate>Wed, 05 May 2021 14:22:36 -0000</lastBuildDate>
+    <pubDate>Wed, 05 May 2021 14:45:59 -0000</pubDate>
+    <lastBuildDate>Wed, 05 May 2021 14:45:59 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -245,6 +245,40 @@
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/nasa_perseverance_mars_map.jpg" type="image/jpeg" length="231265" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 13 août 2012 </title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
+      <description>&lt;h1&gt;Revue de presse du 13 août 2012&lt;/h1&gt;
+&lt;p&gt;:calendar: Date de publication initiale : 17 août 2012&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Mapnik | PostGIS | GeoRDP | Leaflet | Django | prj2epsg&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;News&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png&#34; title=&#34;Icône news générique&#34;&gt;{: .img-rdp-news-thumb }
+ L&#39;été sera chaud, l&#39;été sera chaud... Vous connaissez la chanson et avec le pique de chaleur qui arrive vous risquez de l&#39;entendre souvent. Alors pourquoi ne pas faire une pause en lisant, bien installé à l&#39;ombre, n...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-08-17/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 02 Apr 2021 15:27:23 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-08-17/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 24 octobre 2014</title>
+      
+      
+      <description>&lt;h1&gt;Revue de presse du 24 octobre 2014&lt;/h1&gt;
+&lt;p&gt;Cette semaine, une bonne partie de l&#39;actualité géomatique se passe en Suisse avec notamment l&#39;annonce de la sortie de map.geo.admin.ch en version offline ou encore du portail GeoPlaNet qui passe sur MapFish. Mais rassurez-vous, ce n&#39;est pas tout. Nous avons également une mise à jour d&#39;OSRM et de pickLayer, une belle discussion sur OSM et BANO sans oublier Mathieu qui nous régale comme à l&#39;accoutumée de ses trouvailles cartographiques.&lt;/p&gt;
+&lt;p&gt;Nous vous souhaiton...&lt;/p&gt;</description>
+      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-10-24/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 02 Apr 2021 15:27:23 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-10-24/</guid>
       
     </item>
     
@@ -635,26 +669,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
     </item>
     
     <item>
-      <title>Revue de presse du 13 août 2012 </title>
-      
-      
-        
-      <author>GeoTribu</author>
-        
-      
-      <description>&lt;h1&gt;Revue de presse du 13 août 2012&lt;/h1&gt;
-&lt;p&gt;:calendar: Date de publication initiale : 17 août 2012&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Mapnik | PostGIS | GeoRDP | Leaflet | Django | prj2epsg&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;News&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png&#34; title=&#34;Icône news générique&#34;&gt;{: .img-rdp-news-thumb }
- L&#39;été sera chaud, l&#39;été sera chaud... Vous connaissez la chanson et avec le pique de chaleur qui arrive vous risquez de l&#39;entendre souvent. Alors pourquoi ne pas faire une pause en lisant, bien installé à l&#39;ombre, n...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-08-17/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-08-17/</guid>
-      
-    </item>
-    
-    <item>
       <title>Revue de presse du 20 août</title>
       
       
@@ -730,26 +744,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
       <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-10-19/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 5 novembre 2012</title>
-      
-      
-        
-      <author>GeoTribu</author>
-        
-      
-      <description>&lt;h1&gt;Revue de presse du 5 novembre 2012&lt;/h1&gt;
-&lt;p&gt;:calendar: Date de publication initiale : 09 novembre 2012&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; GeoRDP | GDAL | GeONG | HSLayers | LizMap | OGR | OpenLayers | QGIS | TileMill&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;News&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png&#34; title=&#34;Icône news générique&#34;&gt;{: .img-rdp-news-thumb }
- Vendredi c&#39;est revue de presse chez GeoTribu, il faut mettre la main à la pâte de la récolte de la semaine, tout mettre en forme pour vous le présenter. Donc cette semaine pas mal de no...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-11-09/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-11-09/</guid>
       
     </item>
     
