@@ -14,12 +14,12 @@
     <language>fr</language>
 
     
-    <pubDate>Sat, 01 May 2021 10:05:58 -0000</pubDate>
-    <lastBuildDate>Sat, 01 May 2021 10:05:58 -0000</lastBuildDate>
+    <pubDate>Wed, 05 May 2021 14:22:36 -0000</pubDate>
+    <lastBuildDate>Wed, 05 May 2021 14:22:36 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
-    <generator>MkDocs RSS plugin - v0.14.0</generator>
+    <generator>MkDocs RSS plugin - v0.15.0</generator>
 
     
     
@@ -33,6 +33,24 @@
     
     
     <item>
+      <title>Géo-communs : rendez-vous avec Sébastien Soriano, lundi 10 mai</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>L&#39;IGN lance une consultation publique inédite pour co-construire son avenir autour du concept fort des géo-communs.Rendez-vous lundi 10 mai sur Geotribu pour la GeoInterview de Sébastien Soriano.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Wed, 05 May 2021 15:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/interview/sebastien_soriano/geocommuns_geoitw.png" type="image/png" length="398779" />
+      
+    </item>
+    
+    <item>
       <title>Vectipy, un serveur minimaliste de tuiles vectorielles (MVT)</title>
       
       
@@ -41,7 +59,7 @@
         
       
       <description>Présentation de vectipy, un serveur léger de tuiles vectorielles (MVT)</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Mon, 26 Apr 2021 15:00:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</guid>
@@ -59,7 +77,7 @@
         
       
       <description>GeoRDP du 23 avril 2021 : cette revue de presse devrait vous emmener dans les hautes sphères de la géomatique open source. Décollage des news imminent !</description>
-      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/</link>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 23 Apr 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/</guid>
@@ -77,7 +95,7 @@
         
       
       <description>Fork open source de MapboxGL, MapLibreGL représente l’une des solutions actuelles de cartographie en ligne les plus intéressantes. Afin de documenter et de partager une série d’expérimentations autour de la cartographie thématique sur le Web, la mise en place d’un site Web apparait comme une bonne solution pour donner à voir les possibilités de cartographie thématiques permises par MapLibreGL.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 20 Apr 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/</guid>
@@ -95,7 +113,7 @@
         
       
       <description>GeoRDP du 9 avril 2021 : Cette semaine, retour vers le futur, on a replongé 4000 ans en arrière pour entrevoir ce qui pourrait bien être la plus vieille carte d&#39;Europe. Plusieurs articles ont été pbuliés sur GeoTribu et vous trouverez également les parcelles publiques en open data, des ressources ouvertes sur PostgreSQL et QGIS notamment et plein d&#39;autres choses. Bonne lecture !</description>
-      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/</link>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 09 Apr 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/</guid>
@@ -113,7 +131,7 @@
         
       
       <description>Représenter un réseau de bus et gérer la superposition des lignes</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-04-07_carte_reseau_bus/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-07_carte_reseau_bus/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Wed, 07 Apr 2021 14:14:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-07_carte_reseau_bus/</guid>
@@ -131,7 +149,7 @@
         
       
       <description>Présentation du plugin de Geotribu pour QGIS : QTribu. Inutile donc forcément indispensable.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Thu, 01 Apr 2021 13:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/</guid>
@@ -149,7 +167,7 @@
         
       
       <description>GeoRDP du 26 mars 2021 : On vous rassure cette nouvelle revue de presse n&#39;a pas été impactée par le blocage du canal de Suez, les actualités ont continué d&#39;affluer</description>
-      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/</link>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 26 Mar 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/</guid>
@@ -167,7 +185,7 @@
         
       
       <description>GeoRDP du 12 mars 2021 : la revue de presse de la géomatique libre et open source.</description>
-      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/</link>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 12 Mar 2021 17:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/</guid>
@@ -185,7 +203,7 @@
         
       
       <description>Petite astuce dans le développement de plugins QGIS : rediriger facilement l&#39;utilisateur final vers la documentation en ligne.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-03-09_pyqgis_astuce_aide_plugin/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-09_pyqgis_astuce_aide_plugin/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 09 Mar 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-09_pyqgis_astuce_aide_plugin/</guid>
@@ -203,7 +221,7 @@
         
       
       <description>Les Reclus aux Confins : Découvrir ou redécouvrir la présentation de GeoTribu - Contributions ouvertes à tous</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 05 Mar 2021 14:00:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/</guid>
@@ -221,7 +239,7 @@
         
       
       <description>Blog-note de développement sur QGIS : présentation de Zeal qui permet de disposer d&#39;un naviguer hors-ligne dans les documentations techniques de QGIS et PyQGIS.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 02 Mar 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</guid>
@@ -239,7 +257,7 @@
         
       
       <description>GeoRDP du 26 février 2021 : cette édition de la revue de presse de la géomatique open-source a été co-rédigée à 16 mains. Cette dimension collaborative se retrouve dans la diversité des sujets évoqués : artificialisation des sols, MOOC Adresse, Géovélo, nuages de poussière et les traditionnelles évolutions d&#39;outils dont QGIS 3.16 LTR et QGIS 3.18 et bien d&#39;autres choses encore.</description>
-      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</link>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 26 Feb 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</guid>
@@ -257,7 +275,7 @@
         
       
       <description>En réaction au changement de licence de MapBox, de nombreuses initiatives ont émergé, dont une très intéressante : MapLibre. Voici un tutoriel complet pour l&#39;utiliser pour créer une carte web interactive 100% libre, en continuant à utiliser les fonctionnalités de MapboxGL sans dépendance aux jetons d&#39;accès.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 23 Feb 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/</guid>
@@ -277,7 +295,7 @@
         
       
       <description>Suite du projet ign2map : automatisation de l&#39;exécution des scripts et du déploiement de la carte interactive des liens de téléchargement des données ouvertes de l&#39;IGN, en tirant profit de GitHub Actions et Pages.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 19 Feb 2021 14:14:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/</guid>
@@ -297,7 +315,7 @@
         
       
       <description>ign2map : le petit projet de Geotribu pour rendre l’expérience de téléchargement des données ouvertes de l&#39;IGN plus interactive.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Mon, 15 Feb 2021 11:11:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</guid>
@@ -315,7 +333,7 @@
         
       
       <description>GeoRDP, la revue de presse géomatique : Input l&#39;application mobile liée avec QGIS, GeoContrib, le jeu des brasseries, notre participation à la prochaine édition des Reclus aux Confins, des outils pour choisir son nuancier de couleurs, des représentations liées aux incendies et d&#39;autres choses encore.</description>
-      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/</link>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 12 Feb 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/</guid>
@@ -333,7 +351,7 @@
         
       
       <description>Récupérer des données sociales de Twitter, les préparer et les représenter est assez simple, grâce à trois bibliothèques Python : Twint, Pandas et Plolty. L&#39;exemple développé ici s&#39;appuie sur les statistiques autour des GeoRDP et articles parus dans GeoTribu en 2020</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 09 Feb 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/</guid>
@@ -351,7 +369,7 @@
         
       
       <description>Suite au dernier article, voici comment lister et prévisualiser les images intégrées à QGIS via script Python pour générer une jolie page markdown.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 02 Feb 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</guid>
@@ -369,7 +387,7 @@
         
       
       <description>GeoRDP du 29 janvier 2021 : voyage dans le temps avec PhilCarto 2021 puis retour dans le présent avec PyGEOS, Mapillary, AI4Geo, WillyMaps, du mesh et d&#39;autres choses encore !</description>
-      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/</link>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 29 Jan 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/</guid>
@@ -387,7 +405,7 @@
         
       
       <description>Prise en main d&#39;Unfolded Studio, une plateforme clé en mains de dataviz, via la représentation de données AirBNB de Bordeaux.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 26 Jan 2021 11:11:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/</guid>
@@ -405,7 +423,7 @@
         
       
       <description>CSV - Import/export d&#39;un style catégorisé QGIS</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-01-22_csv_import_export_style_QGIS/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-22_csv_import_export_style_QGIS/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 22 Jan 2021 11:11:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-22_csv_import_export_style_QGIS/</guid>
@@ -423,7 +441,7 @@
         
       
       <description>Pour le développement d&#39;un plugin pour QGIS, soigner l&#39;interface graphique peut être fastidieux, notamment de concevoir ou trouver les éléments graphiques. Pourquoi ne pas utiliser les icônes déjà embarquées dans QGIS ?.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-01-19_pyqgis_utiliser_icones_integrees/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-19_pyqgis_utiliser_icones_integrees/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 19 Jan 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-19_pyqgis_utiliser_icones_integrees/</guid>
@@ -441,7 +459,7 @@
         
       
       <description>GeoRDP du 15 janvier 2021 : la première revue de presse de la géomatique francophone de 2021. Les sorties logicielles SIG marquantes, des belles représentations cartographiques, de l&#39;open data, du changement climatique. Bref, il y en a pour tous les goûts ! Bonne lecture !</description>
-      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-01-15/</link>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-01-15/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 15 Jan 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-01-15/</guid>
@@ -459,7 +477,7 @@
         
       
       <description>L&#39;équipe de Geotribu vous souhaite ses meilleurs voeux pour 2021, avec quelques statistiques sur l&#39;année 2020 et une feuille de route 2021.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-01-04_bilan_2020_perspectives_2021/</link>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-04_bilan_2020_perspectives_2021/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Wed, 06 Jan 2021 11:11:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-04_bilan_2020_perspectives_2021/</guid>
@@ -477,7 +495,7 @@
         
       
       <description>A l&#39;instar de nombreux autres sites web, celui de Geotribu est un site statique. So what ? Pour comprendre, le mieux c&#39;est encore de le déployer à la maison.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/</link>
+      <link>https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Wed, 30 Dec 2020 11:11:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/</guid>
@@ -495,7 +513,7 @@
         
       
       <description>GeoRDP du 25 décembre 2020 : la revue de presse géomatique de Geotribu pour souhaiter Joyeux Noël et bonnes fêtes !</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</link>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 25 Dec 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</guid>
@@ -513,7 +531,7 @@
         
       
       <description>GeoRDP du 11 décembre 2020, la revue de presse géomatique de Geotribu : De nombreuses mises à jour au programme ainsi qu&#39;une bonne nouvelle du côté de l&#39;ouverture des données.</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/</link>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 11 Dec 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/</guid>
@@ -531,7 +549,7 @@
         
       
       <description>GeoRDP du 27 novembre 2020, la revue de presse géomatique de Geotribu : PostGIS 3.1, journées QGIS francophones, les supports de différents événements, un t-shirt GDAL, l&#39;accès aux images satellites de Theia, et d&#39;autres choses encore ! </description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/</link>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 27 Nov 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/</guid>
@@ -549,7 +567,7 @@
         
       
       <description>Présentation de Street Complete, l&#39;application Android qui permet de contribuer facilement et de façon ludique à OpenStreetMap.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</link>
+      <link>https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Sat, 21 Nov 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</guid>
@@ -567,7 +585,7 @@
         
       
       <description>GeoRDP du 13 novembre 2020, retrouvez le condensé de la géomatique : #30DayMapChallenge, InfluxDB, mobilité, livres, atlas, rdv techniques et thématiques, etc.</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/</link>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 13 Nov 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/</guid>
@@ -585,7 +603,7 @@
         
       
       <description>GeoRDP du 30 octobre 2020 : La recette de Geotribu pour un début de confinement réussi : un peu de QGIS 3.16, une pointe de GDAL 3.1.4, une cuillère à soupe de GeoNetwork 4.0.0, une louche d&#39;OpenData et une pincée d&#39;OpenStreetMap. Bref, on melange tout ça et on arrivera assurément à des cartes d&#39;exception.</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/</link>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 30 Oct 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/</guid>
@@ -603,7 +621,7 @@
         
       
       <description>WSL ? Le Windows Subsystem for Linux permet depuis quelques années déjà de faire tourner un terminal bash sous Windows et ainsi bénéficier de l&#39;usage des programmes populaires de l&#39;écosystème Linux. Dans ce tutoriel, nous verrons comment installer et configurer WSL sur Windows 10, puis nous verrons les possibilités que cela ouvre en installant et utilisant GDAL dans le sous-système Linux.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/</link>
+      <link>https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Wed, 28 Oct 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/</guid>
@@ -623,7 +641,7 @@
         
       
       <description>En restaurant les géogames de Geotribu, des mini-jeux sur la culture générale en cartographie et géomatique, j&#39;ai trouvé un jeu qui n&#39;avait jamais été publié qui consiste à associer les déserts à leurs continents. Saurez-vous ne pas finir privé/e de désert ?</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-10-19_geogame_desert/</link>
+      <link>https://static.geotribu.fr/articles/2020/2020-10-19_geogame_desert/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Thu, 22 Oct 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-10-19_geogame_desert/</guid>
@@ -641,7 +659,7 @@
         
       
       <description>GeoRDP du 16 octobre 2020 : MadMaps, un serious game pour l&#39;initiation à la cartographie</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/</link>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 16 Oct 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/</guid>
@@ -659,7 +677,7 @@
         
       
       <description>Concepts de base et exemples de paramétrage et de rendu sur aerialod (cartographie 3D).</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/</link>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Wed, 14 Oct 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/</guid>
@@ -677,7 +695,7 @@
         
       
       <description>GeoRDP du 2 octobre 2020 : sortie de PostgreSQL 13, GeoServer 2.18, Datawrapper ; des cartographies sur la biodiversité, la COVID et Halloween ; des cours sur QSpatiaLite, les journées QGIS FR 2020 approchent, les données IGN se baladent sur des FTP ouverts aux 4 vents et plein d&#39;autres choses encore à découvrir dans cette revue de presse géomatique !</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-02/</link>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-02/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 02 Oct 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-02/</guid>
@@ -695,7 +713,7 @@
         
       
       <description>GeoRDP du 18 Septembre : mise à jour de l&#39;extension QGIS cadastre, faire le choix des bonnes couleurs, visualisations autour des élections présidentielles américaines, visualisation des feux de forêt, covid19 et sport, conséquences du réchauffement climatique sur l&#39;habitabilité des Etats-Unis, quand l&#39;absence de données sur une carte les rend visibles, podcast sur être indépendant en géomatique, détection des tremblements de terre grâce aux smartphones, atlas de l&#39;Afrique par l&#39;AFD</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</link>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 18 Sep 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</guid>
@@ -713,7 +731,7 @@
         
       
       <description>Convertir les contenus récupérés de l&#39;ancien site de Geotribu en Markdown (via markdownify) : lingua franca du contenu web 2020.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</link>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Mon, 14 Sep 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</guid>
@@ -731,30 +749,12 @@
         
       
       <description>On vous donne rendez-vous aux GéoDataDays 2020, les 15 et 16 septembre à Montpellier, l&#39;événement indépendant de la géomatique francophone.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-09-09_geodatadays/</link>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-09_geodatadays/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Wed, 09 Sep 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-09_geodatadays/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/external/salons_conferences/geodatadays/2020/geodatadays_2020_banniere.jpg" type="image/jpeg" length="452027" />
-      
-    </item>
-    
-    <item>
-      <title>Le web-scraping avec Scrapy</title>
-      
-      
-        
-      <author>Julien MOURA</author>
-        
-      
-      <description>Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l&#39;Internet Archive.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</link>
-      <pubDate>Tue, 08 Sep 2020 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" length="48052" />
       
     </item>
     
