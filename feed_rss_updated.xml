@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Thu, 06 May 2021 09:59:05 -0000</pubDate>
-    <lastBuildDate>Thu, 06 May 2021 09:59:05 -0000</lastBuildDate>
+    <pubDate>Fri, 07 May 2021 14:42:46 -0000</pubDate>
+    <lastBuildDate>Fri, 07 May 2021 14:42:46 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Revue de presse du 07 mai 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 7 mai 2021 : point sur les dynamiques autour de l&#39;Adresse, de la nouveauté comme toujours autour d&#39;OpenStreetMap, un set d&#39;icônes libres et gratuites pour la cartographie, un traceur GPS DIY pour son vélo et le retour des événements en présentiel au premier rang desquels les GéoDataDays 2021 ! Voici quelques uns des sujets abordés dans cette revue de presse de la géomatique.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 07 May 2021 14:34:46 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/adressage.jpg" type="image/jpeg" length="88905" />
+      
+    </item>
     
     <item>
       <title>Les interviews de Géotribu</title>
@@ -723,26 +741,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
       <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-09-06/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 8 octobre 2012</title>
-      
-      
-        
-      <author>GeoTribu</author>
-        
-      
-      <description>&lt;h1&gt;Revue de presse du 8 octobre 2012&lt;/h1&gt;
-&lt;p&gt;:calendar: Date de publication initiale : 12 octobre 2012&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; GeoRDP | Google Maps | OSGeo | Leaflet | OpenStreetMap&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;News&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png&#34; title=&#34;Icône news générique&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
-&lt;p&gt;Pas de rubrique &#34;sorties de la semaine&#34; dans cette revue de presse mais ne vous inquiétez pas elle vaut quand même le détour ! En effet, on parle de &lt;a href=&#34;#newsqgis&#34;&gt;QGIS&lt;/a&gt; qui vient de recevoir une donation en or et ...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-10-12/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-10-12/</guid>
       
     </item>
     
