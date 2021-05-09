@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Sun, 09 May 2021 13:53:56 -0000</pubDate>
-    <lastBuildDate>Sun, 09 May 2021 13:53:56 -0000</lastBuildDate>
+    <pubDate>Sun, 09 May 2021 17:54:06 -0000</pubDate>
+    <lastBuildDate>Sun, 09 May 2021 17:54:06 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,42 @@
     
 
     
+    
+    <item>
+      <title>Géo-communs : rendez-vous avec Sébastien Soriano, lundi 10 mai</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>L&#39;IGN lance une consultation publique inédite pour co-construire son avenir autour du concept fort des géo-communs. Rendez-vous lundi 10 mai sur Geotribu pour la GeoInterview (#GeoITW) de Sébastien Soriano.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 09 May 2021 17:46:41 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/interview/sebastien_soriano/geocommuns_geoitw.png" type="image/png" length="398779" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 07 mai 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 7 mai 2021 : point sur les dynamiques autour de l&#39;Adresse, de la nouveauté comme toujours autour d&#39;OpenStreetMap, un set d&#39;icônes libres et gratuites pour la cartographie, un traceur GPS DIY pour son vélo et le retour des événements en présentiel au premier rang desquels les GéoDataDays 2021 ! Voici quelques uns des sujets abordés dans cette revue de presse de la géomatique.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 09 May 2021 17:43:02 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/adressage.jpg" type="image/jpeg" length="88905" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 9 avril 2021</title>
@@ -51,24 +87,6 @@
     </item>
     
     <item>
-      <title>Revue de presse du 07 mai 2021</title>
-      
-      
-        
-      <author>Geotribu</author>
-        
-      
-      <description>GeoRDP du 7 mai 2021 : point sur les dynamiques autour de l&#39;Adresse, de la nouveauté comme toujours autour d&#39;OpenStreetMap, un set d&#39;icônes libres et gratuites pour la cartographie, un traceur GPS DIY pour son vélo et le retour des événements en présentiel au premier rang desquels les GéoDataDays 2021 ! Voici quelques uns des sujets abordés dans cette revue de presse de la géomatique.</description>
-      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
-      <pubDate>Fri, 07 May 2021 15:40:37 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/adressage.jpg" type="image/jpeg" length="88905" />
-      
-    </item>
-    
-    <item>
       <title>Les interviews de Géotribu</title>
       
       
@@ -83,24 +101,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-05-29/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/interview/interview_panneau.png" type="image/png" length="658975" />
-      
-    </item>
-    
-    <item>
-      <title>Géo-communs : rendez-vous avec Sébastien Soriano, lundi 10 mai</title>
-      
-      
-        
-      <author>Geotribu</author>
-        
-      
-      <description>L&#39;IGN lance une consultation publique inédite pour co-construire son avenir autour du concept fort des géo-communs.Rendez-vous lundi 10 mai sur Geotribu pour la GeoInterview de Sébastien Soriano.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
-      <pubDate>Wed, 05 May 2021 14:14:47 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/interview/sebastien_soriano/geocommuns_geoitw.png" type="image/png" length="398779" />
       
     </item>
     
