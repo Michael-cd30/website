@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 07 May 2021 15:57:16 -0000</pubDate>
-    <lastBuildDate>Fri, 07 May 2021 15:57:16 -0000</lastBuildDate>
+    <pubDate>Sun, 09 May 2021 13:53:56 -0000</pubDate>
+    <lastBuildDate>Sun, 09 May 2021 13:53:56 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Revue de presse du 9 avril 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 9 avril 2021 : Cette semaine, retour vers le futur, on a replongé 4000 ans en arrière pour entrevoir ce qui pourrait bien être la plus vieille carte d&#39;Europe. Plusieurs articles ont été pbuliés sur GeoTribu et vous trouverez également les parcelles publiques en open data, des ressources ouvertes sur PostgreSQL et QGIS notamment et plein d&#39;autres choses. Bonne lecture !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 09 May 2021 13:53:07 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/static_web/geotribu_theme_i386_poisson_avril_2021.png" type="image/png" length="183623" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 07 mai 2021</title>
@@ -227,24 +245,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/maplibre_site_ressource/accueil_site.png" type="image/png" length="529637" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 9 avril 2021</title>
-      
-      
-        
-      <author>Geotribu</author>
-        
-      
-      <description>GeoRDP du 9 avril 2021 : Cette semaine, retour vers le futur, on a replongé 4000 ans en arrière pour entrevoir ce qui pourrait bien être la plus vieille carte d&#39;Europe. Plusieurs articles ont été pbuliés sur GeoTribu et vous trouverez également les parcelles publiques en open data, des ressources ouvertes sur PostgreSQL et QGIS notamment et plein d&#39;autres choses. Bonne lecture !</description>
-      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
-      <pubDate>Sat, 10 Apr 2021 12:22:37 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/static_web/geotribu_theme_i386_poisson_avril_2021.png" type="image/png" length="183623" />
       
     </item>
     
