@@ -14,12 +14,12 @@
     <language>fr</language>
 
     
-    <pubDate>Sun, 09 May 2021 17:54:06 -0000</pubDate>
-    <lastBuildDate>Sun, 09 May 2021 17:54:06 -0000</lastBuildDate>
+    <pubDate>Thu, 13 May 2021 18:38:13 -0000</pubDate>
+    <lastBuildDate>Thu, 13 May 2021 18:38:13 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
-    <generator>MkDocs RSS plugin - v0.15.0</generator>
+    <generator>MkDocs RSS plugin - v0.16.1</generator>
 
     
     
@@ -44,6 +44,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Sun, 09 May 2021 20:00:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-05_geointerview_ign_sebastien_soriano_annonce/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/interview/sebastien_soriano/geocommuns_geoitw.png" type="image/png" length="398779" />
@@ -62,6 +63,7 @@
       <link>https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 07 May 2021 16:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/adressage.jpg" type="image/jpeg" length="88905" />
@@ -80,6 +82,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Mon, 26 Apr 2021 15:00:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-26_vectipy_postgis_mvt/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/vectipy/vectipy_logo.png" type="image/png" length="3028" />
@@ -98,6 +101,7 @@
       <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 23 Apr 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-04-23/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/intro_osm_st-petersbourg-russie.jpg" type="image/jpeg" length="152520" />
@@ -116,6 +120,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 20 Apr 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/maplibre_site_ressource/accueil_site.png" type="image/png" length="529637" />
@@ -134,6 +139,7 @@
       <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 09 Apr 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/tuto/static_web/geotribu_theme_i386_poisson_avril_2021.png" type="image/png" length="183623" />
@@ -152,6 +158,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-04-07_carte_reseau_bus/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Wed, 07 Apr 2021 14:14:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-04-07_carte_reseau_bus/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-07_carte_reseau_bus/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/reseau_bus_qgis/reseau_bus_osm.png" type="image/png" length="821196" />
@@ -170,6 +177,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Thu, 01 Apr 2021 13:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/projets-geotribu/plugin_qtribu/qtribu_article_displayed.png" type="image/png" length="289168" />
@@ -188,6 +196,7 @@
       <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 26 Mar 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/cnes_canal_suez.png" type="image/png" length="829341" />
@@ -206,6 +215,7 @@
       <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 12 Mar 2021 17:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/cran_motif_packages.png" type="image/png" length="146596" />
@@ -224,6 +234,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-03-09_pyqgis_astuce_aide_plugin/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 09 Mar 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-03-09_pyqgis_astuce_aide_plugin/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-09_pyqgis_astuce_aide_plugin/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_show_help/documentation_le-chat.jpg" type="image/jpeg" length="31898" />
@@ -242,6 +253,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 05 Mar 2021 14:00:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-05_reclus_confins_replay_geotribu/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/presentation_reclus_confins/geotribu_slide_contributions_ouvertes.png" type="image/png" length="341100" />
@@ -260,6 +272,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 02 Mar 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-03-02_utiliser_zeal_pour_qgis_developpement/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_doc_dash_zeal/zeal_search_filtered_pyqgis_qgsprovider.png" type="image/png" length="392736" />
@@ -278,6 +291,7 @@
       <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 26 Feb 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/nasa_perseverance_mars_map.jpg" type="image/jpeg" length="231265" />
@@ -296,6 +310,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 23 Feb 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-23_carte_ligne_libre/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/carte-ligne-libre/finalisation.JPG" type="image/jpeg" length="166086" />
@@ -316,6 +331,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 19 Feb 2021 14:14:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-19_ignfr2map_automatisation_deploiement/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/ign_opendata_map/github_action_workflow_result.png" type="image/png" length="78409" />
@@ -336,6 +352,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Mon, 15 Feb 2021 11:11:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-15_ignfr2map_carte_liens_IGN_open-data_7_etapes/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/ign_opendata_map/ign_opendata_map_html_rendu.png" type="image/png" length="953084" />
@@ -354,6 +371,7 @@
       <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 12 Feb 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/library_map.png" type="image/png" length="271624" />
@@ -372,6 +390,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 09 Feb 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/stats_twitter/geotribu_stats_twitter.png" type="image/png" length="190489" />
@@ -390,6 +409,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 02 Feb 2021 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_embedded_images/qgis_icons_preview_cheatsheet.png" type="image/png" length="171657" />
@@ -408,6 +428,7 @@
       <link>https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 29 Jan 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/shadowarm.jpeg" type="image/jpeg" length="158332" />
@@ -426,6 +447,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 26 Jan 2021 11:11:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/unfolded/unfolded_capture.png" type="image/png" length="371733" />
@@ -444,6 +466,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-01-22_csv_import_export_style_QGIS/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 22 Jan 2021 11:11:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-01-22_csv_import_export_style_QGIS/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-22_csv_import_export_style_QGIS/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/QGIS_style_CSV.gif" type="image/gif" length="143634" />
@@ -462,6 +485,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-01-19_pyqgis_utiliser_icones_integrees/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Tue, 19 Jan 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-01-19_pyqgis_utiliser_icones_integrees/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-19_pyqgis_utiliser_icones_integrees/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_embedded_images/qgis_icons_file-explorer.png" type="image/png" length="323809" />
@@ -480,6 +504,7 @@
       <link>https://static.geotribu.fr/rdp/2021/rdp_2021-01-15/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 15 Jan 2021 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-01-15/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-01-15/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/Madrid_snowbound_pillars.jpg" type="image/jpeg" length="336463" />
@@ -498,6 +523,7 @@
       <link>https://static.geotribu.fr/articles/2021/2021-01-04_bilan_2020_perspectives_2021/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Wed, 06 Jan 2021 11:11:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-01-04_bilan_2020_perspectives_2021/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-04_bilan_2020_perspectives_2021/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/phoenix_constellation_map_fr.png" type="image/png" length="15501" />
@@ -516,6 +542,7 @@
       <link>https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Wed, 30 Dec 2020 11:11:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/fernand_leger_constructeurs.jpg" type="image/jpeg" length="163951" />
@@ -534,6 +561,7 @@
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 25 Dec 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/merry_christmas_blender.png" type="image/png" length="530787" />
@@ -552,6 +580,7 @@
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 11 Dec 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/globe_sauter.jpeg" type="image/jpeg" length="318364" />
@@ -570,6 +599,7 @@
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 27 Nov 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/tree_canopy.png" type="image/png" length="215190" />
@@ -588,6 +618,7 @@
       <link>https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Sat, 21 Nov 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/openstreetmap/street_complete/streetcomplete_banner.png" type="image/png" length="597773" />
@@ -606,6 +637,7 @@
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 13 Nov 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-13/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/mayors_dialogue_visual_motif.png" type="image/png" length="467357" />
@@ -624,6 +656,7 @@
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 30 Oct 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-30/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/ogc_SymCoreApproved_1024x512.jpg" type="image/jpeg" length="156634" />
@@ -642,6 +675,7 @@
       <link>https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Wed, 28 Oct 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-10-28_gdal_windows_subsystem_linux_wsl/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/tuto/gdal_wsl/ubuntu_wsl_landing_page.png" type="image/png" length="81924" />
@@ -662,6 +696,7 @@
       <link>https://static.geotribu.fr/articles/2020/2020-10-19_geogame_desert/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Thu, 22 Oct 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2020/2020-10-19_geogame_desert/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-10-19_geogame_desert/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/geogames/globe_jeu_video_manette.png" type="image/png" length="292219" />
@@ -680,6 +715,7 @@
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 16 Oct 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-16/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/charles_booth_legend.png" type="image/png" length="949223" />
@@ -698,6 +734,7 @@
       <link>https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Wed, 14 Oct 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/tuto/aerialod/oceania_aerialod.jpg" type="image/jpeg" length="161218" />
@@ -716,6 +753,7 @@
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-10-02/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 02 Oct 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-10-02/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-02/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/datawrapper_update.png" type="image/png" length="243236" />
@@ -734,6 +772,7 @@
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Fri, 18 Sep 2020 14:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/carte_covid.jpg" type="image/jpeg" length="75592" />
@@ -752,6 +791,7 @@
       <link>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
       <pubDate>Mon, 14 Sep 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" length="48052" />
