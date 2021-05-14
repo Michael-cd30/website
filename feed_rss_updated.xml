@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Thu, 13 May 2021 18:38:13 -0000</pubDate>
-    <lastBuildDate>Thu, 13 May 2021 18:38:13 -0000</lastBuildDate>
+    <pubDate>Fri, 14 May 2021 08:38:39 -0000</pubDate>
+    <lastBuildDate>Fri, 14 May 2021 08:38:39 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,25 @@
     
 
     
+    
+    <item>
+      <title>Module de commentaires de Geotribu</title>
+      
+      
+        
+      <author>Julien Moura</author>
+        
+      
+      <description>Rien à voir avec la Géo, mais tout à voir avec la Tribu : nous avons migré notre système de commentaires de Disqus vers Isso. Partage d&#39;expérience et contribution open source.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 14 May 2021 08:37:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/disqus_to_isso/geotribu_comments_isso_backend.png" type="image/png" length="163845" />
+      
+    </item>
     
     <item>
       <title>Géo-communs : rendez-vous avec Sébastien Soriano, lundi 10 mai</title>
@@ -760,27 +779,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <comments>https://static.geotribu.fr/rdp/2012/rdp_2012-08-24/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-08-24/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 3 septembre</title>
-      
-      
-        
-      <author>GeoTribu</author>
-        
-      
-      <description>&lt;h1&gt;Revue de presse du 3 septembre 2012&lt;/h1&gt;
-&lt;p&gt;:calendar: Date de publication initiale : 06 septembre 2012&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; OpenLayers | OpenStreetMap | uDig | Python | Spatialite | Leaflet | GeoAlchemy | GeoRDP | GeoServer | topologie&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;News&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png&#34; title=&#34;Icône news générique&#34;&gt;{: .img-rdp-news-thumb }
- C&#39;est la rentrée chez Geotribu cette semaine. Le nombre de news recommence à devenir important dans notre veille. Retenez qu&#39;il vous faut suivre les r...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2012/rdp_2012-09-06/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <comments>https://static.geotribu.fr/rdp/2012/rdp_2012-09-06/#__comments</comments>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2012/rdp_2012-09-06/</guid>
       
     </item>
     

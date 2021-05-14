@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Thu, 13 May 2021 18:38:13 -0000</pubDate>
-    <lastBuildDate>Thu, 13 May 2021 18:38:13 -0000</lastBuildDate>
+    <pubDate>Fri, 14 May 2021 08:38:39 -0000</pubDate>
+    <lastBuildDate>Fri, 14 May 2021 08:38:39 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,25 @@
     
 
     
+    
+    <item>
+      <title>Module de commentaires de Geotribu</title>
+      
+      
+        
+      <author>Julien Moura</author>
+        
+      
+      <description>Rien à voir avec la Géo, mais tout à voir avec la Tribu : nous avons migré notre système de commentaires de Disqus vers Isso. Partage d&#39;expérience et contribution open source.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 14 May 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/disqus_to_isso/geotribu_comments_isso_backend.png" type="image/png" length="163845" />
+      
+    </item>
     
     <item>
       <title>Géo-communs : rendez-vous avec Sébastien Soriano, lundi 10 mai</title>
@@ -776,25 +795,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/carte_covid.jpg" type="image/jpeg" length="75592" />
-      
-    </item>
-    
-    <item>
-      <title>Du HTML en Markdown (et vice-versa)</title>
-      
-      
-        
-      <author>Julien MOURA</author>
-        
-      
-      <description>Convertir les contenus récupérés de l&#39;ancien site de Geotribu en Markdown (via markdownify) : lingua franca du contenu web 2020.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
-      <pubDate>Mon, 14 Sep 2020 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <comments>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/#__comments</comments>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" length="48052" />
       
     </item>
     
