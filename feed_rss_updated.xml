@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 14 May 2021 10:13:05 -0000</pubDate>
-    <lastBuildDate>Fri, 14 May 2021 10:13:05 -0000</lastBuildDate>
+    <pubDate>Fri, 14 May 2021 10:48:27 -0000</pubDate>
+    <lastBuildDate>Fri, 14 May 2021 10:48:27 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,25 @@
     
 
     
+    
+    <item>
+      <title>Les commentaires sur Geotribu : de Disqus à Isso</title>
+      
+      
+        
+      <author>Julien Moura</author>
+        
+      
+      <description>Rien à voir avec la Géo, mais tout à voir avec la Tribu : nous avons migré notre système de commentaires de Disqus vers Isso. Partage d&#39;expérience et contribution open source.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 14 May 2021 10:47:26 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-05-14_commentaires_migration_disqus_isso/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/disqus_to_isso/geotribu_comments_isso_backend.png" type="image/png" length="163845" />
+      
+    </item>
     
     <item>
       <title>Annonces en pagaille du côté de chez Google</title>
@@ -806,27 +825,6 @@ Entre le Where 2.0 et le Google IO, que de nouvelles choses ...&lt;/p&gt;</descr
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <comments>https://static.geotribu.fr/rdp/2010/rdp_2010-12-10/#__comments</comments>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2010/rdp_2010-12-10/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 28 janvier</title>
-      
-      
-        
-      <author>GeoTribu</author>
-        
-      
-      <description>&lt;h1&gt;Revue de presse du 28 janvier 2011&lt;/h1&gt;
-&lt;p&gt;:calendar: Date de publication initiale : 28 janvier 2011&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; QGIS | OSM | GeoRDP&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;News&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png&#34; title=&#34;Icône news générique&#34;&gt;{: .img-rdp-news-thumb }
-Au menu de cette revue de presse hebdomadaire, la sortie en version papier du manuel utilisateur de &lt;a href=&#34;#qgis&#34;&gt;Qgis&lt;/a&gt;, une tonne de nouveautés chez &lt;a href=&#34;#mapquest&#34;&gt;MapQuest&lt;/a&gt;, la mise en ligne du &lt;a href=&#34;#russe&#34;&gt;géoportail russe&lt;/a&gt;, l&#39;utilisation d&#39;un [globe 3D](#...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-28/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
-      <pubDate>Fri, 14 May 2021 10:12:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-01-28/#__comments</comments>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-01-28/</guid>
       
     </item>
     
