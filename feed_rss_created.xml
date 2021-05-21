@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Mon, 17 May 2021 23:20:31 -0000</pubDate>
-    <lastBuildDate>Mon, 17 May 2021 23:20:31 -0000</lastBuildDate>
+    <pubDate>Fri, 21 May 2021 15:42:48 -0000</pubDate>
+    <lastBuildDate>Fri, 21 May 2021 15:42:48 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,25 @@
     
 
     
+    
+    <item>
+      <title>Revue de presse du 21 mai 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 21 mai 2021 : plugin cadastre QGIS, du Python coté CloudCompare et GeoPandas, chronique radio sur les abstractions cartographiques, des débats sur de potentielles nouvelles licences open data, les journées de la recherche IGN, l&#39;AG d’OpenStreetMap France, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-05-21/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Fri, 21 May 2021 17:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2021/rdp_2021-05-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-05-21/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/carte_routiere.png" type="image/png" length="590873" />
+      
+    </item>
     
     <item>
       <title>Les commentaires sur Geotribu : de Disqus à Isso</title>
@@ -776,25 +795,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-10-02/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/datawrapper_update.png" type="image/png" length="243236" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 18 Septembre 2020</title>
-      
-      
-        
-      <author>Geotribu</author>
-        
-      
-      <description>GeoRDP du 18 Septembre : mise à jour de l&#39;extension QGIS cadastre, faire le choix des bonnes couleurs, visualisations autour des élections présidentielles américaines, visualisation des feux de forêt, covid19 et sport, conséquences du réchauffement climatique sur l&#39;habitabilité des Etats-Unis, quand l&#39;absence de données sur une carte les rend visibles, podcast sur être indépendant en géomatique, détection des tremblements de terre grâce aux smartphones, atlas de l&#39;Afrique par l&#39;AFD</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/?utm_source=rss-feed&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
-      <pubDate>Fri, 18 Sep 2020 14:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <comments>https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/#__comments</comments>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/carte_covid.jpg" type="image/jpeg" length="75592" />
       
     </item>
     
