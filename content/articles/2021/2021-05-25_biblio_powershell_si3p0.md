@@ -232,6 +232,8 @@ A l'issue de l'export, la table temporaire est supprimée. La version géographi
 SIg-Effacer-Table -table 'BAN_CSV' -sortie "$dossierRapports\$(Get-Date -Format 'yyyy-MM-dd HH-mm-ss') - effacement BAN_CSV.txt"
 ```
 
+[Voir le script complet :fontawesome-solid-comments:](https://github.com/CD30-Devil/SI3P0/blob/main/docs/Ressources/GeoTribu/2021-05-25_biblio_powershell_si3p0.ps1){: .md-button }
+
 ### Résultats obtenus
 
 Après exécution du script, la table `BAN_Geo` est disponible dans la base SIg et les versions GeoJSON et SHP par commune sont accessibles dans le dossier de sortie.
